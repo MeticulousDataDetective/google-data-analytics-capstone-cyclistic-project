@@ -6,4 +6,4 @@ The file "Analysis_of_Bike_Ride_Data.R" contains the R source code that I used t
 
 The file "avg_ride_length.csv" is a summary file that I exported using the R code in "Analysis_of_Bike_Ride_Data.R". This summary file contains the data from which I created visualizations in Tableau Public.
 
-There is also a folder containing image files for each of the Tableau data visualizations.
+There is also a folder containing PNG image files for each of the Tableau data visualizations.
