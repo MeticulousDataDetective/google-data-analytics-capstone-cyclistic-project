@@ -1,8 +1,8 @@
 # Data-Analysis-Portfolio
-This repository contains projects and case studies involving data analysis. 
+This repository contains projects and case studies involving data analysis. One case study is the capstone project for the Google Data Analytics Professional Certification program and is based on a fictional scenario.
 
 ## 1. Google Data Analytics Capstone Project Case Study
-> The following section relates to a case study I completed as part of the Google Data Analytics Professional Certification program.
+> The following section relates to the case study I completed as part of the Google Data Analytics Professional Certification program.
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Cyclistic (a bike-share company) Case Study
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. The Link to the Case Study Report
 [Click here to view the full Cyclistic case study report (PDF).](Google%20Data%20Analytics%20Capstone%20Project/Cyclistic%20%28a%20bike-share%20company%29%20Case%20Study/Cyclistic%20Case%20Study%20Report.pdf)
