@@ -73,9 +73,10 @@ Data includes:
 
 ## 📁 Repository Contents
 
-- `/data/` – Cleaned and/or raw trip data (if included)  
-- `/scripts/` – R script used for cleaning and analysis  
-- `/visualizations/` – Tableau dashboards and visualization exports  
+-  Cleaned trip data
+-  Raw trip data
+-  Tableau visualization exports  
+- `Analysis_of_Bike_Ride_Data.R` – The R script used for cleaning and analysis  
 - `Cyclistic Case Study Report.pdf` – Final case study report with insights and recommendations
 
 ---
