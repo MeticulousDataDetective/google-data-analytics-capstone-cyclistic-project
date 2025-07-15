@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
-This repository contains projects and case studies involving data analysis. One case study is the capstone project for the Google Data Analytics Professional Certification program and is based on a fictional scenario.
+This repository contains a case studiy involving data analysis. One case study is the capstone project for the Google Data Analytics Professional Certification program and is based on a fictional scenario.
 
 ## 1. Google Data Analytics Capstone Project Case Study
 > The following section relates to the case study I completed as part of the Google Data Analytics Professional Certification program.
