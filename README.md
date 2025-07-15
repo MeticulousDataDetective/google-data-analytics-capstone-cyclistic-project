@@ -1,5 +1,5 @@
-# Google Data Analytics Capstone Project Case Study
-## 🚲 Cyclistic Case Study Project
+# Cyclistic Case Study 🚲
+## A Google Data Analytics Capstone Project
 
 Welcome to my Google Data Analytics Professional Certificate Capstone Project!  
 In this case study, I take on the role of a **junior data analyst** at **Cyclistic**, a fictional bike-share company in Chicago.
