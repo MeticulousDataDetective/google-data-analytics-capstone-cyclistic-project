@@ -51,7 +51,7 @@ Data includes:
 
 ### 3. Process  
 - Cleaned and transformed data using **R**  
-- Created new variables like `ride_length` and `day_of_week`  
+- Created new variables like `ride_duration` and `day_of_week`  
 - Ensured integrity and consistency of data
 
 ### 4. Analyze  
@@ -74,7 +74,7 @@ Data includes:
 - `/data/` – Cleaned and/or raw trip data (if included)  
 - `/scripts/` – R scripts used for cleaning and analysis  
 - `/visualizations/` – Tableau dashboards and visualization exports  
-- `casestudy1reportdeliverables.pdf` – Final case study report with insights and recommendations
+- `Cyclistic Case Study Report.pdf` – Final case study report with insights and recommendations
 
 ---
 
