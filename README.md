@@ -1,10 +1,12 @@
-# Cyclistic Case Study 🚲
-## A Google Data Analytics Capstone Project
+# Google Data Analytics Capstone: Cyclistic Case Study 🚲
+## A Complete Data Analysis Project Using R, Tableau & Google Sheets
 
-Welcome to my Google Data Analytics Professional Certificate Capstone Project!  
-In this case study, I take on the role of a **junior data analyst** at **Cyclistic**, a fictional bike-share company in Chicago.
+Welcome to my capstone project for the **Google Data Analytics Professional Certificate**.  
+In this case study, I take on the role of a **junior data analyst** at **Cyclistic**, a fictional bike-share company based in Chicago.
 
-This project follows the full data analysis process — **Ask → Prepare → Process → Analyze → Share → Act** — to generate actionable insights aimed at converting **casual riders into annual members**.
+The business objective: **analyze user behavior to develop strategies that encourage casual riders to become annual members.**
+
+This project follows the full data analysis process — **Ask → Prepare → Process → Analyze → Share → Act** — and includes work in **R, Google Sheets**, and **Tableau** to deliver actionable insights and compelling visualizations.
 
 ---
 
@@ -72,7 +74,7 @@ Data includes:
 ## 📁 Repository Contents
 
 - `/data/` – Cleaned and/or raw trip data (if included)  
-- `/scripts/` – R scripts used for cleaning and analysis  
+- `/scripts/` – R script used for cleaning and analysis  
 - `/visualizations/` – Tableau dashboards and visualization exports  
 - `Cyclistic Case Study Report.pdf` – Final case study report with insights and recommendations
 
