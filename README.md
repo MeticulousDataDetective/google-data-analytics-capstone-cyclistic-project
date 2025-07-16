@@ -102,7 +102,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 
-This case study was completed as part of the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera.
-Special thanks to the course instructors and content creators.
+This case study was completed as part of the  
+[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera.  
+Special thanks to the course instructors and content creators for providing a strong foundation in data analysis, including R, SQL, Tableau, and spreadsheet tools.
 
----
+### 🏅 Certification Badge
+
+[![Google Data Analytics Badge](https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
+
+Verified by Credly:  
+[View my official Google Data Analytics badge](https://www.credly.com/badges/1bea4a50-26b1-41e3-944a-4e33a09f35b1/public_url)
+
