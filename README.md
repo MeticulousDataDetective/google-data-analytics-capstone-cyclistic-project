@@ -115,8 +115,11 @@ Verified by Credly:
 
 ---
 
-## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/lancemontero)
+## 📫 Contact Me
 
-- rikkilance.montero@gmail.com
+- **Name:** Rikki Lance Montero
+- **Email:** [rikkilance.montero@gmail.com](mailto:rikkilance.montero@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lancemontero) – Connect with me professionally
+- 📛 [Credly](https://www.credly.com/users/lance-montero) – View my verified certifications
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/lancemontero) – Explore my data visualizations
 
