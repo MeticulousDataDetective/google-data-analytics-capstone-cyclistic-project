@@ -116,6 +116,7 @@ Verified by Credly:
 ---
 
 ## Contact Me
-- [LinkedIn](www.linkedin.com/in/lancemontero)
+- [LinkedIn](https://www.linkedin.com/in/lancemontero)
 
-- [Email](rikkilance.montero@gmail.com)
+- Email: rikkilance.montero@gmail.com
+
