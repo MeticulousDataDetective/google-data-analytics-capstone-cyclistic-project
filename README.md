@@ -113,3 +113,8 @@ Special thanks to the course instructors and content creators for providing a st
 Verified by Credly:  
 [View my official Google Data Analytics badge](https://www.credly.com/badges/1bea4a50-26b1-41e3-944a-4e33a09f35b1/public_url)
 
+---
+
+## Contact Me
+[LinkedIn](www.linkedin.com/in/lancemontero)
+[Email](rikkilance.montero@gmail.com)
