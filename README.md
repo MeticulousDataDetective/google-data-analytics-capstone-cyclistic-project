@@ -119,7 +119,7 @@ Verified by Credly:
 
 - **Name:** Rikki Lance Montero
 - 📧 [rikkilance.montero@gmail.com](mailto:rikkilance.montero@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lancemontero) – Connect with me professionally
-- 📛 [Credly](https://www.credly.com/users/rikki-lance-montero) – View my verified certifications
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/lancemontero) – Explore my data visualizations
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rikkilancemontero) – Connect with me professionally
+- 📛 [Credly](https://www.credly.com/users/rikkilancemontero) – View my verified certifications
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/rikkilancemontero) – Explore my data visualizations
 
