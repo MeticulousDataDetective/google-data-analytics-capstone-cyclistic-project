@@ -108,7 +108,7 @@ Special thanks to the course instructors and content creators for providing a st
 
 ### 🏅 Certification Badge
 
-[![Google Data Analytics Badge](https://images.credly.com/size/400x400/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/1bea4a50-26b1-41e3-944a-4e33a09f35b1/public_url) 
+[![Google Data Analytics Badge](https://images.credly.com/size/400x400/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/1bea4a50-26b1-41e3-944a-4e33a09f35b1/view) 
 
 Verified by Credly:  
 [View my official Google Data Analytics badge](https://www.credly.com/badges/1bea4a50-26b1-41e3-944a-4e33a09f35b1/public_url)
